@@ -23,13 +23,13 @@
 define('DB_NAME', 'chehelso_blog_db');
 
 /** MySQL database username */
-define('DB_USER', 'chehelso_user');
+define('DB_USER', 'root');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'HKoAuRzr2kfpWnkS');
+define('DB_PASSWORD', 'myrootpassword');
 
 /** MySQL hostname */
-define('DB_HOST', 'localhost');
+define('DB_HOST', 'db');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8');
