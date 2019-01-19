@@ -1,4 +1,4 @@
-=== Smart Magazine ===
+=== blog Magazine ===
 
 Smart Magazine is 2015 responsive magazine style theme.
 
